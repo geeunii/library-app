@@ -8,6 +8,7 @@ class LibraryAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int a = 1;
 	}
 
 }
